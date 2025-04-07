@@ -1,0 +1,6 @@
+tk 
+pyautogui
+psutil
+opencv-python
+pyscreeze 
+pillow
